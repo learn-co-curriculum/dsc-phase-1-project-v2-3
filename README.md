@@ -27,7 +27,7 @@
    
    
    ## Conclusion
-   Our conclusions were Comedy/Family as a genre, Kyle Balda as a leading and profitable director in that genre, and Lionsgate Studios as a suitable choice for a potential partnership or acquisition.
+   Our conclusions were Comedy/Family as a genre, Kyle Balda as a leading and profitable director in that genre, and Warner Bros Studios as a suitable choice for a potential partnership or acquisition.
 
 
 ### student.ipynb - Jupyter Notebook Project Submission located in Main Branch.
