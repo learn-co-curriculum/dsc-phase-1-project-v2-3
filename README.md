@@ -23,11 +23,11 @@
    
    
    ## Plots
-   Through plotting Average Profit Margin against Genres, Directors and Studio we found the top candidate of each feature to be Comedy/Family, Kyle Balda and Lionsgate Studios.
+   Through plotting Average Profit Margin against Genres, Directors and Studio we found the top candidate of each feature to be Comedy/Family, Kyle Balda and Warner Bros    Studios.
    
    
    ## Conclusion
-   Our conclusions were Comedy/Family as a genre, Kyle Balda as a leading and profitable director in that genre, and Lionsgate Studios as a suitable choice for a potential partnership or acquisition.
+   Our conclusions were Comedy/Family as a genre, Kyle Balda as a leading and profitable director in that genre, and Warner Bros Studios as a suitable choice for a potential partnership or acquisition.
 
 
 ### student.ipynb - Jupyter Notebook Project Submission located in Main Branch.
